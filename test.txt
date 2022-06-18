@@ -1,1 +1,3 @@
 this is my first test file
+dont look at me weird wtf this txt file..
+im just committing git push and pulling repo love yall
